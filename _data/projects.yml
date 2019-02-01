@@ -13,17 +13,17 @@
     <mark>Docker</mark>.
 
     I'm very proud of this project. Feel free to check out on GitHub:
-    [mbt-bundle](https://github.com/tienvx/mbt-bundle)
-    [mbt-api-bundle](https://github.com/tienvx/mbt-api-bundle)
-    [mbt-admin](https://github.com/tienvx/mbt-admin)
-    [mbt-examples](https://github.com/tienvx/mbt-examples)
-    [mbt-skeleton](https://github.com/tienvx/mbt-skeleton)
-    [mbt-infrastructure](https://github.com/tienvx/mbt-infrastructure)
-    [messenger-memory-transport](https://github.com/tienvx/messenger-memory-transport)
+    * [mbt-bundle](https://github.com/tienvx/mbt-bundle)
+    * [mbt-api-bundle](https://github.com/tienvx/mbt-api-bundle)
+    * [mbt-admin](https://github.com/tienvx/mbt-admin)
+    * [mbt-examples](https://github.com/tienvx/mbt-examples)
+    * [mbt-skeleton](https://github.com/tienvx/mbt-skeleton)
+    * [mbt-infrastructure](https://github.com/tienvx/mbt-infrastructure)
+    * [messenger-memory-transport](https://github.com/tienvx/messenger-memory-transport)
 
 - name: Angular Elastic Builder Fork
   #link: github.com/sproogen
-  github: https://github.com/tienvx/angular-elastic-builder
+  github: tienvx/angular-elastic-builder
   quote: >
     This is part of some thing much larger.
   description: | # this will include new lines to allow paragraphs
@@ -33,7 +33,7 @@
 
 - name: Drupal 8 Module Ports
   #link: github.com/sproogen
-  #github: sproogen/resume-theme
+  github: tienvx
   quote: >
     There are a lot of modules unavailable at the time Drupal 8 was released.
   description: | # this will include new lines to allow paragraphs
@@ -42,12 +42,12 @@
     This is the first time I created open source projects.
 
     The projects are:
-    [ayah](https://github.com/tienvx/ayah)
-    [simpleaddress](https://github.com/tienvx/simpleaddress)
-    [filefield_sources](https://github.com/tienvx/filefield_sources)
-    [site_verify](https://github.com/tienvx/site_verify)
-    [token](https://github.com/tienvx/token)
-    [plupload](https://github.com/tienvx/plupload)
-    [search_api_page](https://github.com/tienvx/search_api_page)
-    [chatroom](https://github.com/tienvx/chatroom)
-    [site_map](https://github.com/tienvx/site_map)
+    * [ayah](https://github.com/tienvx/ayah)
+    * [simpleaddress](https://github.com/tienvx/simpleaddress)
+    * [filefield_sources](https://github.com/tienvx/filefield_sources)
+    * [site_verify](https://github.com/tienvx/site_verify)
+    * [token](https://github.com/tienvx/token)
+    * [plupload](https://github.com/tienvx/plupload)
+    * [search_api_page](https://github.com/tienvx/search_api_page)
+    * [chatroom](https://github.com/tienvx/chatroom)
+    * [site_map](https://github.com/tienvx/site_map)
