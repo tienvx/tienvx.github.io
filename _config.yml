@@ -49,11 +49,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Watching game streams
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Football
+
+  I was organizer and the caster of the very first e-sport contest at GO1.
 
 # Footer
 footer_show_references: true
