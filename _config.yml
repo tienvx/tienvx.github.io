@@ -1,23 +1,23 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Tien Xuan Vo
+title: Senior PHP Developer
+email: tien.xuan.vo@gmail.com
+website: https://tienvx.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: tienvoxuan
+github_username:  tienvx
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: tien.voxuan
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
+# instagram_username: chillwildlife
+linkedin_username: tienxuanvo
+pinterest_username: tienxuanvo
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
