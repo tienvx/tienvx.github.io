@@ -6,10 +6,13 @@
   description: | # this will include new lines to allow paragraphs
     Model Based Testing is not new. The first time I've heard of it is when I work as internship at Global CyberSoft.
     I love the idea, but the tools that I know didn't make me happy. So I decided to write my own tool based on skills that I have:
-    <mark>React</mark>,
+    <mark>ReactJS</mark>,
     <mark>Symfony</mark>,
+    <mark>API Platform</mark>,
     <mark>RabbitMQ</mark>,
-    <mark>Mysql</mark> and
+    <mark>Mysql</mark>,
+    <mark>Behat</mark>,
+    <mark>TestCafe</mark> and
     <mark>Docker</mark>.
 
     I'm very proud of this project. Feel free to check out on GitHub:
@@ -18,6 +21,7 @@
     * [mbt-admin](https://github.com/tienvx/mbt-admin)
     * [mbt-examples](https://github.com/tienvx/mbt-examples)
     * [mbt-skeleton](https://github.com/tienvx/mbt-skeleton)
+    * [mbt-bundle-skeleton](https://github.com/tienvx/mbt-bundle-skeleton)
     * [mbt-infrastructure](https://github.com/tienvx/mbt-infrastructure)
     * [messenger-memory-transport](https://github.com/tienvx/messenger-memory-transport)
 
@@ -37,7 +41,7 @@
   quote: >
     There are a lot of modules unavailable at the time Drupal 8 was released.
   description: | # this will include new lines to allow paragraphs
-    I started these project as a way to learn <mark>Drupal 8</mark> and <mark>Symfony</mark>.
+    I started these projects as a way to learn <mark>Drupal 8</mark> and <mark>Symfony</mark>.
     Although GO1 had switch from Drupal to its new stack of development, the skills that I had learned through these project still valuable for me.
     This is the first time I created open source projects.
 

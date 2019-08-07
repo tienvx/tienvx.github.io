@@ -1,6 +1,6 @@
 - company: GO1
   link: https://www.go1.com/
-  job_title: Senior PHP Developer
+  job_title: Senior PHP Developer - Full Stack Developer
   dates: April 2013 - Present
   description: | # this will include new lines to allow paragraphs
     This is the first and the only company I work for since I graduated from the university.
@@ -8,8 +8,10 @@
     At GO1 I had the opportunity to work with:
     <mark>Drupal</mark>,
     <mark>Symfony</mark>,
-    <mark>AngularJS</mark>
+    <mark>AngularJS</mark>,
+    <mark>Codeception</mark>,
+    <mark>TestCafe</mark>,
     <mark>AWS</mark> services,
     <mark>Elasticsearch</mark>,
-    <mark>Docker</mark>and
+    <mark>Docker</mark> and
     <mark>ReactJS</mark>.
