@@ -6,14 +6,14 @@
   description: | # this will include new lines to allow paragraphs
     Model Based Testing is not new. The first time I've heard of it is when I work as internship at Global CyberSoft.
     I love the idea, but the tools that I know didn't make me happy. So I decided to write my own tool based on skills that I have:
-    <mark>ReactJS</mark>,
     <mark>Symfony</mark>,
     <mark>API Platform</mark>,
+    <mark>ReactJS</mark>,
     <mark>RabbitMQ</mark>,
     <mark>Mysql</mark>,
-    <mark>Behat</mark>,
-    <mark>TestCafe</mark> and
-    <mark>Docker</mark>.
+    <mark>Docker</mark>,
+    <mark>GitHub Actions</mark>, <mark>Travis</mark> and
+    Testing tools like <mark>PHPUnit</mark>, <mark>Selenium</mark>, <mark>Behat</mark>, <mark>TestCafe</mark>.
 
     I'm very proud of this project. Feel free to check out on GitHub:
     * [mbt-bundle](https://github.com/tienvx/mbt-bundle)
