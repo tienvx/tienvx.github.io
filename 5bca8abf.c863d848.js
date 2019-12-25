@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{239:function(n,e,t){"use strict";t.r(e);var c=t(0),o=t.n(c),a=t(34);e.default=function(){return o.a.createElement(a.c,{to:"/cv"})}}}]);
