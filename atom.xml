@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tienvx.github.io/</id>
+    <title>Tien Vo's Blog Blog</title>
+    <updated>2016-10-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tienvx.github.io/"/>
+    <subtitle>Tien Vo's Blog Blog</subtitle>
+    <icon>https://tienvx.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Install bumblebee on Ubuntu 16.10]]></title>
+        <id>Install bumblebee on Ubuntu 16.10</id>
+        <link href="https://tienvx.github.io/2016/10/31/install-bumblebee-on-ubuntu-16-10"/>
+        <updated>2016-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The same as my last post, but we need to install bumblebee from testing ppa manually, because there are no packages for yakkety yet.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install bumblebee Ubuntu 16.04.1]]></title>
+        <id>Install bumblebee Ubuntu 16.04.1</id>
+        <link href="https://tienvx.github.io/2016/10/30/install-bumblebee-ubuntu-16-04-1"/>
+        <updated>2016-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Update and install latest driver]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use fcitx in hipchat on ubuntu]]></title>
+        <id>Use fcitx in hipchat on ubuntu</id>
+        <link href="https://tienvx.github.io/2016/10/30/use-fcitx-in-hipchat-on-ubuntu"/>
+        <updated>2016-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In my company, we use Hipchat to communicate while we work.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unison End_of_file exception raised in loading archive]]></title>
+        <id>Unison End_of_file exception raised in loading archive</id>
+        <link href="https://tienvx.github.io/2016/03/08/uniso-end_of_file-exception-raised-in-loading-archive"/>
+        <updated>2016-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Solution:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix netbeans do not index drupal's files]]></title>
+        <id>Fix netbeans do not index drupal's files</id>
+        <link href="https://tienvx.github.io/2015/07/11/fix-netbeans-do-not-index-drupals-files"/>
+        <updated>2015-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you open a drupal project using netbeans > 7.2.1, netbeans won't index files, so we can not go to functions or refactor code.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote debugging PHP with a firewall in the way]]></title>
+        <id>Remote debugging PHP with a firewall in the way</id>
+        <link href="https://tienvx.github.io/2015/07/11/remote-debugging-php-with-a-firewall-in-the-way"/>
+        <updated>2015-07-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you unable to connect IDE to xdebug, probably there is a firewall between your IDE and xdebug. You can either set up a tunnel or disable your firewall. Here is how you can disable firewall in ubuntu:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unison end of file exception]]></title>
+        <id>Unison end of file exception</id>
+        <link href="https://tienvx.github.io/2015/06/12/unison-end-of-file-exception"/>
+        <updated>2015-06-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When your computer crash while a unison's profile is open, you will see this error: "Endoffile exception raised in loading archive" (this indicates a bug!)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix can not mount /dev/loop0]]></title>
+        <id>Fix can not mount /dev/loop0</id>
+        <link href="https://tienvx.github.io/2015/04/29/fix-can-not-mount-devloop0"/>
+        <updated>2015-04-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When you create ubuntu usb installation disk from windows, you will see that error.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phpenv, drupalcs in fish shell]]></title>
+        <id>phpenv, drupalcs in fish shell</id>
+        <link href="https://tienvx.github.io/2014/12/29/phpenv-drupalcs-in-fish-shell"/>
+        <updated>2014-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To add phpenv and other command to fish shell, run this command: vim ~/.config/fish/config.fish]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install phpdbg on ubuntu 14.04]]></title>
+        <id>Install phpdbg on ubuntu 14.04</id>
+        <link href="https://tienvx.github.io/2014/10/20/install-phpdbg-on-ubuntu"/>
+        <updated>2014-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Install phpenv]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Profiler]]></title>
+        <id>PHP Profiler</id>
+        <link href="https://tienvx.github.io/2014/10/13/php-profiler"/>
+        <updated>2014-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. sudo apt-get install python-setuptools]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to install phing/phing in ubuntu 14.04]]></title>
+        <id>How to install phing/phing in ubuntu 14.04</id>
+        <link href="https://tienvx.github.io/2014/08/21/how-to-install-phingphing-in-ubuntu-14-04"/>
+        <updated>2014-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Upgrade php5.5 http://www.dev-metal.com/how-to-setup-latest-version-of-php-5-5-on-ubuntu-12-04-lts/]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Zero MQ on Ubuntu]]></title>
+        <id>Install Zero MQ on Ubuntu</id>
+        <link href="https://tienvx.github.io/2014/07/16/install-zero-mq-on-ubuntu"/>
+        <updated>2014-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. sudo apt-get install libzmq3]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install multiple version of php]]></title>
+        <id>Install multiple version of php</id>
+        <link href="https://tienvx.github.io/2014/06/20/install-multiple-version-of-php"/>
+        <updated>2014-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test installing drupal on multiple version of php]]></title>
+        <id>Test installing drupal on multiple version of php</id>
+        <link href="https://tienvx.github.io/2014/06/20/test-installing-drupal-on-multiple-version-of-php"/>
+        <updated>2014-06-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. vim ~/.phpenv/versions/5.3.28/etc/php.ini pdomysql.defaultsocket="/var/run/mysqld/mysqld.sock"]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debug php from command line]]></title>
+        <id>Debug php from command line</id>
+        <link href="https://tienvx.github.io/2014/06/03/debug-php-from-command-line"/>
+        <updated>2014-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Install, enable xdebug.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclude directory from grep search]]></title>
+        <id>Exclude directory from grep search</id>
+        <link href="https://tienvx.github.io/2014/05/07/exclude-directory-from-grep-search"/>
+        <updated>2014-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. If we want to exclude abc/ and xyz/ directory (in root directory) form grep's results we can do this: grep -rn --exclude-dir={abc,xyz} "text to find"]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Waiting For Connection (netbeans-xdebug) in Netbeans]]></title>
+        <id>Fix Waiting For Connection (netbeans-xdebug) in Netbeans</id>
+        <link href="https://tienvx.github.io/2014/04/14/fix-waiting-for-connection-netbeans-xdebug-in-netbeans"/>
+        <updated>2014-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. This is the old and buggy xdebug config:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade xdebug on Ubuntu 14.04]]></title>
+        <id>Upgrade xdebug on Ubuntu 14.04</id>
+        <link href="https://tienvx.github.io/2014/04/03/upgrade-xdebug-on-ubuntu-14-04"/>
+        <updated>2014-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xdebug 2.2.3 is very buggy on Ubuntu 14.04. We need to upgrade it. Here is how I done:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install thelia]]></title>
+        <id>Install thelia</id>
+        <link href="https://tienvx.github.io/2014/03/29/install-thelia"/>
+        <updated>2014-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Get code git clone https://github.com/thelia/thelia.git]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field Data Definition Types]]></title>
+        <id>Field Data Definition Types</id>
+        <link href="https://tienvx.github.io/2014/01/19/field-data-definition-types"/>
+        <updated>2014-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Các kiểu được drupal 8 hỗ trợ: string, integer, map, filterformat, float, uri, boolean, datetimecomputed, datetimeiso8601, any, languagereference, entity_reference, email, language.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time between local and server timezone]]></title>
+        <id>Time between local and server timezone</id>
+        <link href="https://tienvx.github.io/2013/12/25/time"/>
+        <updated>2013-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[strtotime('now') == time();]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show error messages in drupal 8]]></title>
+        <id>Show error messages in drupal 8</id>
+        <link href="https://tienvx.github.io/2013/10/27/show-error-messages-in-drupal-8"/>
+        <updated>2013-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Same as drupal 7, we put this into sites/default/settings.php:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undefined index: path]]></title>
+        <id>Undefined index: path</id>
+        <link href="https://tienvx.github.io/2013/10/27/undefined-index-path"/>
+        <updated>2013-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Notice path in Drupal\\Core\\Routing\\RouteBuilder->rebuild() (line 97 of core/lib/Drupal/Core/Routing/RouteBuilder.php]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Sublime Text 3 on Ubuntu]]></title>
+        <id>Install Sublime Text 3 on Ubuntu</id>
+        <link href="https://tienvx.github.io/2013/09/21/install-sublime-text-3-on-ubuntu"/>
+        <updated>2013-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Install dev build//www.sublimetext.com/3dev]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash for linux]]></title>
+        <id>Bash for linux</id>
+        <link href="https://tienvx.github.io/2013/07/02/bash-cho-linux"/>
+        <updated>2013-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. mv /.bashrc.bak.123456-789 .bashrc]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 5: Create new Platform, new Site]]></title>
+        <id>Episode 5: Create new Platform, new Site</id>
+        <link href="https://tienvx.github.io/2013/05/17/episode-5-create-new-platform-new-site"/>
+        <updated>2013-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. ssh vào aegir.com]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 2: Cài Aegir server]]></title>
+        <id>Episode 2: Cài Aegir server</id>
+        <link href="https://tienvx.github.io/2013/05/14/episode-2-cai-aegir-server"/>
+        <updated>2013-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Cài debian 6, lúc cài chọn root pass là root, thêm user name là aegir và password là aegir: adduser --system --group --home /var/aegir aegir passwd aegir usermod -a -G www-data aegir]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 3: Web server]]></title>
+        <id>Episode 3: Web server</id>
+        <link href="https://tienvx.github.io/2013/05/14/episode-3-web-server"/>
+        <updated>2013-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ở đây có nói chi tiết về cách tạo web server cho aegir.http://community.aegirproject.org/node/396]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 4: Database server]]></title>
+        <id>Episode 4: Database server</id>
+        <link href="https://tienvx.github.io/2013/05/14/episode-4-database-server"/>
+        <updated>2013-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Cài debian 7 trong khi cài bạn chọn hostname là database có username là webdev và pass là webdev]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Episode 1: Make drupal server run]]></title>
+        <id>Episode 1: Make drupal server run</id>
+        <link href="https://tienvx.github.io/2013/05/03/episode-1-make-drupal-server-run"/>
+        <updated>2013-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Cài đặt virtualbox trên host. Ở đây mình dùng Ubuntu Desktop 13.04. Sau khi cài xong virtualbox, bạn vào File -> Preferences -> Network -> Add Host-only network. Bạn sẽ có một card mạng ảo trên host với dhcp đã được cấu hình sẵn với đường mạng 192.168.56.1/255.255.255.0.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read more path in views (Drupal)]]></title>
+        <id>Read more path in views (Drupal)</id>
+        <link href="https://tienvx.github.io/2013/04/17/read-more-path-in-views-drupal"/>
+        <updated>2013-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Solutionpath. Display it or don't display it. Rearrange the fields so that path field is above the trimmed content. Go back to the trimmed field. Replacement patterns now has a path. Use it as the (duh) path.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fallback mode của reCaptcha trong Drupal]]></title>
+        <id>Fallback mode của reCaptcha trong Drupal</id>
+        <link href="https://tienvx.github.io/2013/04/16/fallback-mode-cua-recaptcha-trong-drupal"/>
+        <updated>2013-04-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Khi chưa đăng kí reCaptcha (đăng kí ở https://www.google.com/recaptcha/admin/) thì reCaptcha sẽ fallback về mathcaptcha hay image captcha.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass by reference trong module_invoke]]></title>
+        <id>Pass by reference trong module_invoke</id>
+        <link href="https://tienvx.github.io/2013/04/14/pass-by-reference-trong-module_invoke"/>
+        <updated>2013-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately moduleinvokeall() and moduleinvoke() do not allow passing variables by reference.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tạo mới field chatroom trong drupal 7]]></title>
+        <id>Tạo mới field chatroom trong drupal 7</id>
+        <link href="https://tienvx.github.io/2013/04/14/tao-moi-field-chatroom-trong-drupal-7"/>
+        <updated>2013-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tham số trong hook_field_update]]></title>
+        <id>Tham số trong hook_field_update</id>
+        <link href="https://tienvx.github.io/2013/04/14/tham-so-trong-hook_field_update"/>
+        <updated>2013-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Đây là api của hook\field\update. Hàm này nhận 6 tham số, trong đó có 2 tham số khó hiểu là $field và $instance. Thực ra $field và $instance là kết quả trả về của hàm field\info\field và field\info\instance.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annotation trong Doctrine 2]]></title>
+        <id>Annotation trong Doctrine 2</id>
+        <link href="https://tienvx.github.io/2013/04/07/annotation-trong-doctrine-2"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cài bundle cho Symfony 2 một cách thủ công]]></title>
+        <id>Cài bundle cho Symfony 2 một cách thủ công</id>
+        <link href="https://tienvx.github.io/2013/04/07/cai-bundle-cho-symfony-2-mot-cach-thu-cong"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Date time trong PHP]]></title>
+        <id>Date time trong PHP</id>
+        <link href="https://tienvx.github.io/2013/04/07/date-time-trong-php"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Một số expression:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default value trong twig]]></title>
+        <id>Default value trong twig</id>
+        <link href="https://tienvx.github.io/2013/04/07/default-value-trong"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Một số command trong Symfony 2]]></title>
+        <id>Một số command trong Symfony 2</id>
+        <link href="https://tienvx.github.io/2013/04/07/mot-so-command-trong-symfony-2"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. cache logs]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[preg_match compilation failed offset 389]]></title>
+        <id>preg_match compilation failed offset 389</id>
+        <link href="https://tienvx.github.io/2013/04/07/preg_match-compilation-failed-offset-389"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lỗi này xuất hiện khi gửi thư bằng swiftmailer]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove ACME sample project trong Symfony 2]]></title>
+        <id>Remove ACME sample project trong Symfony 2</id>
+        <link href="https://tienvx.github.io/2013/04/07/remove-acme-sample-project-trong-symfony-2"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[* delete the \src/Acme\ directory;]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reserved word trong mysql]]></title>
+        <id>Reserved word trong mysql</id>
+        <link href="https://tienvx.github.io/2013/04/07/reserved-word-trong-mysql"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Một số từ cần tránh khi đặt tên bảng trong mysql, nếu không sẽ bị báo lỗi không truy vấn được dữ liệu]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routing Auth]]></title>
+        <id>Routing Auth</id>
+        <link href="https://tienvx.github.io/2013/04/07/routing-auth"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[`]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ssl trong Symfony 2]]></title>
+        <id>Ssl trong Symfony 2</id>
+        <link href="https://tienvx.github.io/2013/04/07/ssl-trong-symfony-2"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Start server trong xampp]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit Symfony 2 project với netbeans 7]]></title>
+        <id>Unit Symfony 2 project với netbeans 7</id>
+        <link href="https://tienvx.github.io/2013/04/07/unit-symfony-2-project-voi-netbeans-7"/>
+        <updated>2013-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Property phpunit của project.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cài đặt yEd, Virtualbox trong linux]]></title>
+        <id>Cài đặt yEd, Virtualbox trong linux</id>
+        <link href="https://tienvx.github.io/2012/08/19/cai-dat-yed-virtualbox-trong-linux"/>
+        <updated>2012-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trong linux thì cách cài 2 thằng này khá giống nhau.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World trong Zend Framework 2]]></title>
+        <id>Hello World trong Zend Framework 2</id>
+        <link href="https://tienvx.github.io/2012/08/19/hello-world-trong-zend-framework-2"/>
+        <updated>2012-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tài liệu tốt nhất về zend framework 2 hiện tại là trang web của tác giả Rob Allen, tác giả của quyển Zend Framework in Action (và đang có kế hoạch cho Zend Framework 2 in Action, khi nào có tiền để dành mua mới được) http://akrabat.com/.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selenium 2.25 và Netbeans 7.2]]></title>
+        <id>Selenium 2.25 và Netbeans 7.2</id>
+        <link href="https://tienvx.github.io/2012/08/19/selenium-2-25-va-netbeans-7-2"/>
+        <updated>2012-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Netbeans 7.2 hiện tại đã tích hợp tesng rồi. Nhưng mình vẫn chưa chạy được khi có library selenium trong project. Đang chờ giải pháp từ:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphml có weight trong graphwalker]]></title>
+        <id>Graphml có weight trong graphwalker</id>
+        <link href="https://tienvx.github.io/2012/08/19/ve-va-su-dung-graphml-co-weight-trong-graphwalker"/>
+        <updated>2012-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Để vẽ graphml, ta sử dụng yEd. Cách cài yEd hơi rắc rối tí, tương tự như Virtualbox, bạn vào category Linux để biết thêm cách cài.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>Hello world!</id>
+        <link href="https://tienvx.github.io/2012/06/09/hello-world"/>
+        <updated>2012-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dang ki cai wordpress lau roi gio moi co dip xai. Sao ma khong go duoc tieng viet bang ibus trong opera the nay. Cong viec dau tien la tim hieu cach fix va post bai dau tien thoi:)]]></summary>
+    </entry>
+</feed>
